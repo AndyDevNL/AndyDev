@@ -1,0 +1,19 @@
+{
+  "name": "andydev",
+  "version": "1.0.0",
+  "description": "My Portfolio Site",
+  "main": "js/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndySnipe/AndyDev.git"
+  },
+  "author": "Andreas Sharoubim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndySnipe/AndyDev/issues"
+  },
+  "homepage": "https://github.com/AndySnipe/AndyDev#readme"
+}
